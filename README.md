@@ -1,1 +1,0 @@
-# Nolus-testnet-snapshot
